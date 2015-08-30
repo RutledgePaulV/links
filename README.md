@@ -4,9 +4,10 @@ A curated list of articles and links that I find interesting and/or valuable. To
 <br/><br/>
 
 ## Technology Comprehension
+* [JavaScript Module Pattern - Ben Cherry](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 * [An introduction to OAuth2 - Mitchell Anicas](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [Neural Networks & Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
-* [JavaScript Module Pattern - Ben Cherry](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+* [Scala Language Specification - Martin Odersky & Others](http://www.scala-lang.org/files/archive/spec/2.11/)
 
 
 ## Spectacular Answers
@@ -23,6 +24,6 @@ A curated list of articles and links that I find interesting and/or valuable. To
 
 ## Random repos I like
 * [Spark - Sinatra for Java](https://github.com/perwendel/spark)
-* [RevealJS - Presentation Framework](https://github.com/hakimel/reveal.js)
+* [Reveal.js - Presentation Framework](https://github.com/hakimel/reveal.js)
 * [Handlebars.java - Handlebars For Java](https://github.com/jknack/handlebars.java)
 * [Core API - A self-describing approach to APIs](https://github.com/core-api/core-api)
