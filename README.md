@@ -4,6 +4,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 <br/><br/>
 
 ## Technology Comprehension
+* [Gulp vs Grunt - Mark Dalgleish](https://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
 * [JavaScript Module Pattern - Ben Cherry](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 * [An introduction to OAuth2 - Mitchell Anicas](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [Neural Networks & Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
