@@ -11,8 +11,9 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [Scala Language Specification - Martin Odersky & Others](http://www.scala-lang.org/files/archive/spec/2.11/)
 
 
-## Spectacular Answers
+## How to Write Good Code
 * [Separation of Business Logic and Data Access In Django - Stack Overflow](https://stackoverflow.com/questions/12578908/separation-of-business-logic-and-data-access-in-django)
+* [Medium's CSS is actually pretty fucking good - FAT](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 
 ## How To Think
