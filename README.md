@@ -16,6 +16,9 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [Medium's CSS is actually pretty fucking good - FAT](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 
+## Tips & Tricks
+* [19 Git Tips For Everyday Use - Alex Kras](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+
 ## How To Think
 * [Hackers & Painters - Paul Graham](http://www.paulgraham.com/hp.html)
 
