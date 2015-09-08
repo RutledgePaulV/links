@@ -18,6 +18,8 @@ A curated list of articles and links that I find interesting and/or valuable. To
 
 ## Tips & Tricks
 * [19 Git Tips For Everyday Use - Alex Kras](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+* [Badassify Your Terminal & Shell (OSX) - Jilles Soeters](http://jilles.me/badassify-your-terminal-and-shell/)
+
 
 ## How To Think
 * [Hackers & Painters - Paul Graham](http://www.paulgraham.com/hp.html)
