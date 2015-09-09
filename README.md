@@ -10,6 +10,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [Neural Networks & Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Scala Language Specification - Martin Odersky & Others](http://www.scala-lang.org/files/archive/spec/2.11/)
 * [Self-Organizing Maps - Fernando Bacao & Victor Lobo](http://edugi.uji.es/Bacao/SOM%20Tutorial.pdf)
+* [Images in the Frequency Domain - Nick Efford](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/topic1.htm)
 
 
 ## How to Write Good Code
