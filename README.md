@@ -9,6 +9,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [An introduction to OAuth2 - Mitchell Anicas](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [Neural Networks & Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Scala Language Specification - Martin Odersky & Others](http://www.scala-lang.org/files/archive/spec/2.11/)
+* [Self-Organizing Maps - Fernando Bacao & Victor Lobo](http://edugi.uji.es/Bacao/SOM%20Tutorial.pdf)
 
 
 ## How to Write Good Code
