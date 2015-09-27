@@ -26,6 +26,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 
 ## How To Think
 * [Hackers & Painters - Paul Graham](http://www.paulgraham.com/hp.html)
+* [There's No Such Thing As A DevOps Team - Jez Humble](https://www.thoughtworks.com/insights/blog/there-no-such-thing-devops-team)
 
 
 ## Management
