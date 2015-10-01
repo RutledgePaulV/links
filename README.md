@@ -1,6 +1,6 @@
 # Links
 
-A curated list of articles and links that I find interesting and/or valuable. Topics may range anywhere between startup ideas, management, movies, culture, languages, frameworks, databases, etc.
+A curated list of articles and links that I find interesting and/or valuable. Topics may range anywhere between startup ideas, management, culture, languages, frameworks, databases, etc.
 <br/><br/>
 
 ## Technology Comprehension
