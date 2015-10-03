@@ -30,7 +30,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [There's No Such Thing As A DevOps Team - Jez Humble](https://www.thoughtworks.com/insights/blog/there-no-such-thing-devops-team)
 
 
-## Management
+## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
 
 
