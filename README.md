@@ -13,6 +13,7 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [Images in the Frequency Domain - Nick Efford](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/topic1.htm)
 * [On Monoliths & Microservices - Guido Steinacker](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 * [Optional Dependencies in Java - Axel Fontaine](http://axelfontaine.com/blog/optional-dependencies.html)
+* [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
 
 
 ## How to Write Good Code
