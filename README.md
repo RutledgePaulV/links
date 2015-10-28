@@ -36,6 +36,10 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
 
 
+## Cynical but good
+* [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
+* [OAuth2 & The Road To Hell - Eran Hammer](http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
+
 ## Random repos I like
 * [Spark - Sinatra for Java](https://github.com/perwendel/spark)
 * [Reveal.js - Presentation Framework](https://github.com/hakimel/reveal.js)
