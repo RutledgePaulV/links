@@ -26,13 +26,20 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [Badassify Your Terminal & Shell (OSX) - Jilles Soeters](http://jilles.me/badassify-your-terminal-and-shell/)
 * [Runtime Generics (Super Type Tokens) - Neal Gafter](http://gafter.blogspot.nl/2006/12/super-type-tokens.html)
 
-## Cynical & Good
+
+## Tutorials
+* [Getting Started With Kubernetes - CoreOS Team](https://coreos.com/kubernetes/docs/latest/getting-started.html)
+
+
+## Cynics Worth Reading
 * [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
 * [OAuth2 & The Road To Hell - Eran Hammer](http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
+
 
 ## How To Think
 * [Hackers & Painters - Paul Graham](http://www.paulgraham.com/hp.html)
 * [There's No Such Thing As A DevOps Team - Jez Humble](https://www.thoughtworks.com/insights/blog/there-no-such-thing-devops-team)
+
 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
