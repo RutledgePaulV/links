@@ -23,12 +23,12 @@ A curated list of articles and links that I find interesting and/or valuable. To
 
 ## Tips & Tricks
 * [19 Git Tips For Everyday Use - Alex Kras](http://www.alexkras.com/19-git-tips-for-everyday-use/)
-* [Badassify Your Terminal & Shell (OSX) - Jilles Soeters](http://jilles.me/badassify-your-terminal-and-shell/)
 * [Runtime Generics (Super Type Tokens) - Neal Gafter](http://gafter.blogspot.nl/2006/12/super-type-tokens.html)
 
 
 ## Tutorials
 * [Getting Started With Kubernetes - CoreOS Team](https://coreos.com/kubernetes/docs/latest/getting-started.html)
+* [Badassify Your Terminal & Shell (OSX) - Jilles Soeters](http://jilles.me/badassify-your-terminal-and-shell/)
 
 
 ## Cynics Worth Reading
