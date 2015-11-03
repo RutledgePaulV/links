@@ -14,6 +14,9 @@ A curated list of articles and links that I find interesting and/or valuable. To
 * [On Monoliths & Microservices - Guido Steinacker](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 * [Optional Dependencies in Java - Axel Fontaine](http://axelfontaine.com/blog/optional-dependencies.html)
 * [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
+* [Kubernetes Intro Part 1 - Kelsey Hightower](https://www.youtube.com/watch?v=tA8XNVPZM2w)
+* [Kubernetes Intro Part 2 - Kelsey Hightower](https://www.youtube.com/watch?v=I9pF-Bv8AkI)
+* [Kubernetes Intro Part 3 - Kelsey Hightower](https://www.youtube.com/watch?v=UZbwDH-_a_M)
 
 
 ## How to Write Good Code
