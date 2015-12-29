@@ -17,6 +17,8 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Kubernetes Intro Part 1 - Kelsey Hightower](https://www.youtube.com/watch?v=tA8XNVPZM2w)
 * [Kubernetes Intro Part 2 - Kelsey Hightower](https://www.youtube.com/watch?v=I9pF-Bv8AkI)
 * [Kubernetes Intro Part 3 - Kelsey Hightower](https://www.youtube.com/watch?v=UZbwDH-_a_M)
+* [Netty Intro Part 1 - Nickman](http://seeallhearall.blogspot.com/2012/05/netty-tutorial-part-1-introduction-to.html)
+* [Netty Intro Part 2 - Nickman](http://seeallhearall.blogspot.com/2012/06/netty-tutorial-part-15-on-channel.html)
 
 
 ## How to Write Good Code
