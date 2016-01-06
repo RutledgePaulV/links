@@ -51,3 +51,4 @@ A curated list of articles and links that I find interesting, valuable, or that 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
 * [Flat will kill you eventually - Mark Nichols](http://themodernteam.com/flat-will-kill-you-eventually-why-every-company-needs-structure/)
+* [How to spot and magnify the powers of your engineering team ](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
