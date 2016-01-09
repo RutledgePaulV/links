@@ -1,6 +1,6 @@
 # Links
 
-A curated list of articles and links that I find interesting, valuable, or that particularly resonate with the way I think.
+A curated list of articles and links that I find interesting, valuable, or that just generally resonate with the way I think.
 <br/><br/>
 
 ## Technology Comprehension
