@@ -19,6 +19,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Kubernetes Intro Part 3 - Kelsey Hightower](https://www.youtube.com/watch?v=UZbwDH-_a_M)
 * [Netty Intro Part 1 - Nickman](http://seeallhearall.blogspot.com/2012/05/netty-tutorial-part-1-introduction-to.html)
 * [Netty Intro Part 2 - Nickman](http://seeallhearall.blogspot.com/2012/06/netty-tutorial-part-15-on-channel.html)
+* [How the Bitcoin protocol actually works - Michael Nielsen](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
 
 ## How to Write Good Code
