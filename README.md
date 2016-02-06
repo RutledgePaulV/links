@@ -57,4 +57,4 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [How to spot and magnify the powers of your engineering team - Unknown ](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 
 ## Useful Frameworks
-* [ModelMapper - Jonathan Halterman](http://modelmapper.org/user-manual/jackson-integration/)
+* [ModelMapper - Jonathan Halterman](http://modelmapper.org/)
