@@ -21,6 +21,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Netty Intro Part 2 - Nickman](http://seeallhearall.blogspot.com/2012/06/netty-tutorial-part-15-on-channel.html)
 * [How the Bitcoin protocol actually works - Michael Nielsen](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 * [A Technique for Drawing Directed Graphs - Gansner, Koutsofios, North, & Vo](http://www.graphviz.org/Documentation/TSE93.pdf)
+* [Hands-on Dotty - Dmitry Petrashko](https://www.youtube.com/watch?v=aftdOFuVU1o)
 
 
 ## How to Write Good Code
