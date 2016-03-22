@@ -56,6 +56,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
 * [Flat will kill you eventually - Mark Nichols](http://themodernteam.com/flat-will-kill-you-eventually-why-every-company-needs-structure/)
 * [How to spot and magnify the powers of your engineering team - Unknown ](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
+* [How to keep your best programmers - Erik Dietrich](http://www.daedtech.com/how-to-keep-your-best-programmers/)
 
 ## Books
 * [Software Architecture: Foundations, Theory, and Practice](http://www.amazon.com/Software-Architecture-Foundations-Theory-Practice/dp/0470167742)
