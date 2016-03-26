@@ -19,6 +19,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [How the Bitcoin protocol actually works - Michael Nielsen](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 * [A Technique for Drawing Directed Graphs - Gansner, Koutsofios, North, & Vo](http://www.graphviz.org/Documentation/TSE93.pdf)
 * [Hands-on Dotty - Dmitry Petrashko](https://www.youtube.com/watch?v=aftdOFuVU1o)
+* [The World Beyond Batch: Streaming 101 - Tyler Akidau](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 
 
 ## How to Write Good Code
