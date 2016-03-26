@@ -67,3 +67,4 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Wagtail](http://wagtail.io/)
 * [Gource](http://gource.io/)
 * [Netty](http://netty.io/)
+* [Lagom](http://www.lagomframework.com/documentation/1.0.x/Home.html)
