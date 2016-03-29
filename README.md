@@ -55,17 +55,3 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Flat will kill you eventually - Mark Nichols](http://themodernteam.com/flat-will-kill-you-eventually-why-every-company-needs-structure/)
 * [How to spot and magnify the powers of your engineering team - Unknown ](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 * [How to keep your best programmers - Erik Dietrich](http://www.daedtech.com/how-to-keep-your-best-programmers/)
-
-## Books
-* [Software Architecture: Foundations, Theory, and Practice](http://www.amazon.com/Software-Architecture-Foundations-Theory-Practice/dp/0470167742)
-* [The Go Programming Language](http://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
-* [Graph Theory & It's Applications](http://www.amazon.com/Theory-Applications-Second-Textbooks-Mathematics/dp/158488505X)
-
-## Frameworks & Tools
-* [ModelMapper](http://modelmapper.org/)
-* [Graphviz](http://www.graphviz.org/)
-* [Wagtail](http://wagtail.io/)
-* [Gource](http://gource.io/)
-* [Netty](http://netty.io/)
-* [Lagom](http://www.lagomframework.com/)
-* [Spark](http://sparkjava.com/)
