@@ -40,6 +40,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 ## Cynics Worth Reading
 * [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
 * [OAuth2 & The Road To Hell - Eran Hammer](http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
+* [Why Agile & Scrum Are Terrible - Michael Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 
 
 ## How To Think
