@@ -50,6 +50,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [Coding Is Not The New Literacy - Chris Granger](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [Conceptual Debt is Worse Than Technical Debt - Nicolae Rusan](https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.ym4jkav3b)
 * [How that vicious inner critic can be your closest ally - Ken Goldstein](http://themodernteam.com/how-that-vicious-inner-critic-can-be-your-closest-ally/)
+* [How to Disagree - Paul Graham](http://paulgraham.com/disagree.html)
 
 
 ## Culture
