@@ -20,6 +20,7 @@ A curated list of articles and links that I find interesting, valuable, or that 
 * [A Technique for Drawing Directed Graphs - Gansner, Koutsofios, North, & Vo](http://www.graphviz.org/Documentation/TSE93.pdf)
 * [Hands-on Dotty - Dmitry Petrashko](https://www.youtube.com/watch?v=aftdOFuVU1o)
 * [The World Beyond Batch: Streaming 101 - Tyler Akidau](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+* [High Performance Browser Networking - Ilya Grigorik](https://hpbn.co/)
 
 
 ## How to Write Good Code
