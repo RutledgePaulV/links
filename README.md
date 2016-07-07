@@ -21,6 +21,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [Hands-on Dotty - Dmitry Petrashko](https://www.youtube.com/watch?v=aftdOFuVU1o)
 * [The World Beyond Batch: Streaming 101 - Tyler Akidau](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 * [High Performance Browser Networking - Ilya Grigorik](https://hpbn.co/)
+* [Purely Functional Data Structures - Chris Okasaki](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
 
 ## How to Write Good Code
