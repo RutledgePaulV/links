@@ -27,6 +27,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 ## How to Write Good Code
 * [Separation of Business Logic and Data Access In Django - Stack Overflow](https://stackoverflow.com/questions/12578908/separation-of-business-logic-and-data-access-in-django)
 * [Medium's CSS is actually pretty fucking good - FAT](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+* [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 
 
 ## Tips & Tricks
