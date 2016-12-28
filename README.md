@@ -53,6 +53,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [Conceptual Debt is Worse Than Technical Debt - Nicolae Rusan](https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.ym4jkav3b)
 * [How that vicious inner critic can be your closest ally - Ken Goldstein](http://themodernteam.com/how-that-vicious-inner-critic-can-be-your-closest-ally/)
 * [How to Disagree - Paul Graham](http://paulgraham.com/disagree.html)
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 
 ## Culture
