@@ -42,6 +42,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 
 ## Cynics Worth Reading
 * [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
+* [Software Disenchantment - Nikita Tonsky](https://tonsky.me/blog/disenchantment/)
 * [OAuth2 & The Road To Hell - Eran Hammer](http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
 * [Why Agile & Scrum Are Terrible - Michael Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 
@@ -51,7 +52,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [There's No Such Thing As A DevOps Team - Jez Humble](https://www.thoughtworks.com/insights/blog/there-no-such-thing-devops-team)
 * [Coding Is Not The New Literacy - Chris Granger](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [Conceptual Debt is Worse Than Technical Debt - Nicolae Rusan](https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.ym4jkav3b)
-* [How that vicious inner critic can be your closest ally - Ken Goldstein](http://themodernteam.com/how-that-vicious-inner-critic-can-be-your-closest-ally/)
+* [How that vicious inner critic can be your closest ally - Ken Goldstein](https://www.getflow.com/blog/inner-critic)
 * [How to Disagree - Paul Graham](http://paulgraham.com/disagree.html)
 * [How To Ask Questions The Smart Way - Eric Raymond & Rick Moen](http://www.catb.org/~esr/faqs/smart-questions.html)
 
