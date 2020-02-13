@@ -4,7 +4,6 @@ Articles and links that I find interesting, valuable, or that just generally res
 <br/><br/>
 
 ## Technology Comprehension
-* [Gulp vs Grunt - Mark Dalgleish](https://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
 * [JavaScript Module Pattern - Ben Cherry](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 * [An introduction to OAuth2 - Mitchell Anicas](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [Neural Networks & Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
@@ -18,7 +17,6 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [Netty Intro Part 1](http://seeallhearall.blogspot.com/2012/05/netty-tutorial-part-1-introduction-to.html) | [Part 2 - Nickman](http://seeallhearall.blogspot.com/2012/06/netty-tutorial-part-15-on-channel.html)
 * [How the Bitcoin protocol actually works - Michael Nielsen](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 * [A Technique for Drawing Directed Graphs - Gansner, Koutsofios, North, & Vo](http://www.graphviz.org/Documentation/TSE93.pdf)
-* [Hands-on Dotty - Dmitry Petrashko](https://www.youtube.com/watch?v=aftdOFuVU1o)
 * [The World Beyond Batch: Streaming 101 - Tyler Akidau](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 * [High Performance Browser Networking - Ilya Grigorik](https://hpbn.co/)
 * [Purely Functional Data Structures - Chris Okasaki](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
