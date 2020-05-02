@@ -53,6 +53,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [How that vicious inner critic can be your closest ally - Ken Goldstein](https://www.getflow.com/blog/inner-critic)
 * [How to Disagree - Paul Graham](http://paulgraham.com/disagree.html)
 * [How To Ask Questions The Smart Way - Eric Raymond & Rick Moen](http://www.catb.org/~esr/faqs/smart-questions.html)
+* [Power of Admitting Ignorance - Bastian Rieck](https://bastian.rieck.me/blog/posts/2020/power_of_admitting_ignorance/)
 
 
 ## Culture
