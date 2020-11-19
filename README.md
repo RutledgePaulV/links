@@ -42,7 +42,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 ## Cynics Worth Reading
 * [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
 * [Software Disenchantment - Nikita Tonsky](https://tonsky.me/blog/disenchantment/)
-* [OAuth2 & The Road To Hell - Eran Hammer](http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
+* OAuth2 & The Road To Hell - Eran Hammer
 * [Why Agile & Scrum Are Terrible - Michael Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 
 
@@ -59,6 +59,6 @@ Articles and links that I find interesting, valuable, or that just generally res
 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
-* [Flat will kill you eventually - Mark Nichols](http://themodernteam.com/flat-will-kill-you-eventually-why-every-company-needs-structure/)
+* [Flat will kill you eventually - Mark Nichols](https://www.getflow.com/blog/flat-will-kill-you)
 * [How to spot and magnify the powers of your engineering team - Unknown ](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 * [How to keep your best programmers - Erik Dietrich](http://www.daedtech.com/how-to-keep-your-best-programmers/)
