@@ -42,7 +42,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 ## Cynics Worth Reading
 * [Programming Sucks - Peter Welch](http://www.stilldrinking.org/programming-sucks)
 * [Software Disenchantment - Nikita Tonsky](https://tonsky.me/blog/disenchantment/)
-* OAuth2 & The Road To Hell - Eran Hammer
+* [OAuth2 & The Road To Hell - Eran Hammer](http://web.archive.org/web/20140414024722/http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell)
 * [Why Agile & Scrum Are Terrible - Michael Church](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 
 
