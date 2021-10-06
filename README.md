@@ -56,6 +56,8 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [How To Ask Questions The Smart Way - Eric Raymond & Rick Moen](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [Power of Admitting Ignorance - Bastian Rieck](https://bastian.rieck.me/blog/posts/2020/power_of_admitting_ignorance/)
 * [Understanding - Nabeel Qureshi](https://nabeelqu.co/understanding)
+* [Getting Unstuck - Jonas Lundberg](https://www.iamjonas.me/2021/06/getting-unstuck.html)
+* [I Don't Understand This Yet - Jonas Lundberg](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)
 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
