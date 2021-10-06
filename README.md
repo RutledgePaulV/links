@@ -30,7 +30,6 @@ Articles and links that I find interesting, valuable, or that just generally res
 
 
 ## Tips & Tricks
-* [19 Git Tips For Everyday Use - Alex Kras](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 * [Runtime Generics (Super Type Tokens) - Neal Gafter](http://gafter.blogspot.nl/2006/12/super-type-tokens.html)
 
 
@@ -58,6 +57,7 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [Understanding - Nabeel Qureshi](https://nabeelqu.co/understanding)
 * [Getting Unstuck - Jonas Lundberg](https://www.iamjonas.me/2021/06/getting-unstuck.html)
 * [I Don't Understand This Yet - Jonas Lundberg](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)
+* [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
