@@ -23,19 +23,8 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [The Green Place - Eli Bendersky](https://eli.thegreenplace.net/archives/all)
 
 
-## How to Write Good Code
-* [Separation of Business Logic and Data Access In Django - Stack Overflow](https://stackoverflow.com/questions/12578908/separation-of-business-logic-and-data-access-in-django)
-* [Medium's CSS is actually pretty fucking good - FAT](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
-* [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
-
-
 ## Tips & Tricks
 * [Runtime Generics (Super Type Tokens) - Neal Gafter](http://gafter.blogspot.nl/2006/12/super-type-tokens.html)
-
-
-## Tutorials
-* [Getting Started With Kubernetes - CoreOS Team](https://coreos.com/kubernetes/docs/latest/getting-started.html)
-* [Badassify Your Terminal & Shell (OSX) - Jilles Soeters](http://jilles.me/badassify-your-terminal-and-shell/)
 
 
 ## Cynics Worth Reading
@@ -58,6 +47,8 @@ Articles and links that I find interesting, valuable, or that just generally res
 * [Getting Unstuck - Jonas Lundberg](https://www.iamjonas.me/2021/06/getting-unstuck.html)
 * [I Don't Understand This Yet - Jonas Lundberg](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)
 * [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
+* [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
+* [XY Problem - Unknown](https://xyproblem.info/)
 
 ## Culture
 * [This is what impactful engineering leadership looks like - Jessica McKellar](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
